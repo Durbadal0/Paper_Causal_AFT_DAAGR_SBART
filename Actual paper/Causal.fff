@@ -1,0 +1,12 @@
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.85\textwidth]{pics/CATE_vs_sample_size_WA_Distant.eps}
+\caption{County-specific CATE versus sample size, distinguishing between urban (blue) and rural (red) counties. The vertical lines represent 95\% credible intervals for each county's effect estimate.}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.85\textwidth]{pics/CATE_map_WA_Distant.eps}
+\caption{Geographic distribution of county-specific CATE values across Florida counties. Darker shades indicate larger treatment effects.}
+\end{figure}
